@@ -1,3 +1,4 @@
+#Programme pour afficher une carte du nombre de "tempete" par département au cours de l'année 2024
 
 import os
 import pandas as pd
