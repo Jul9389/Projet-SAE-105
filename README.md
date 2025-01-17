@@ -23,3 +23,5 @@ Après avoir établi ces critères pour distinguer les possibles tempêtes dans 
 Ce programme nous l’avons utilisé qu’une seule fois pour les télécharger, les fichiers sont tous dans un même dossier où le 2nd programme pourra les utiliser par la suite.
 
 3ème étape : Problématique : Quelle période est plus sujette à l’apparition d’une tempête selon les données climatologique recueillis en 2024.
+
+Afin de répondre à la problématique, nous avons réalisé 3 programmees ; le premier affiche le nombre de temepete par département, Le deuxième sert à télécharger les métadonnée et le Troisième permets d'afficher le nombre de tempete par mois au cours de l'année 2024. 
